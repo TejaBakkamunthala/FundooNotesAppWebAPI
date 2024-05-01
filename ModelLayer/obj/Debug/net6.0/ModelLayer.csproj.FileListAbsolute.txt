@@ -1,0 +1,11 @@
+F:\DotNetProgramss\FundooNotesApp1\ModelLayer\bin\Debug\net6.0\ModelLayer.deps.json
+F:\DotNetProgramss\FundooNotesApp1\ModelLayer\bin\Debug\net6.0\ModelLayer.dll
+F:\DotNetProgramss\FundooNotesApp1\ModelLayer\bin\Debug\net6.0\ModelLayer.pdb
+F:\DotNetProgramss\FundooNotesApp1\ModelLayer\obj\Debug\net6.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetProgramss\FundooNotesApp1\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfoInputs.cache
+F:\DotNetProgramss\FundooNotesApp1\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfo.cs
+F:\DotNetProgramss\FundooNotesApp1\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.CoreCompileInputs.cache
+F:\DotNetProgramss\FundooNotesApp1\ModelLayer\obj\Debug\net6.0\ModelLayer.dll
+F:\DotNetProgramss\FundooNotesApp1\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
+F:\DotNetProgramss\FundooNotesApp1\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
+F:\DotNetProgramss\FundooNotesApp1\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll

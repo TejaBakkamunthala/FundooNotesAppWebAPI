@@ -1,0 +1,76 @@
+2024-04-24 23:47:21.0654 ${level} User profile is available. Using 'C:\Users\tejab\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-24 23:47:23.4917 ${level} Now listening on: https://localhost:7089
+2024-04-24 23:47:23.4917 ${level} Now listening on: http://localhost:5065
+2024-04-24 23:47:23.4917 ${level} Application started. Press Ctrl+C to shut down.
+2024-04-24 23:47:23.4917 ${level} Hosting environment: Development
+2024-04-24 23:47:23.4917 ${level} Content root path: F:\DotNetProgramss\FundooNotesApp1\FundooNotesApp1\
+2024-04-24 23:47:24.5643 ${level} Request starting HTTP/2 GET https://localhost:7089/swagger/index.html - -
+2024-04-24 23:47:25.1157 ${level} Request finished HTTP/2 GET https://localhost:7089/swagger/index.html - - - 200 - text/html;charset=utf-8 551.7944ms
+2024-04-24 23:47:25.1272 ${level} Request starting HTTP/2 GET https://localhost:7089/_framework/aspnetcore-browser-refresh.js - -
+2024-04-24 23:47:25.1272 ${level} Request finished HTTP/2 GET https://localhost:7089/_framework/aspnetcore-browser-refresh.js - - - 200 13766 application/javascript;+charset=utf-8 8.5764ms
+2024-04-24 23:47:25.1444 ${level} Request starting HTTP/2 GET https://localhost:7089/_vs/browserLink - -
+2024-04-24 23:47:25.2079 ${level} Request finished HTTP/2 GET https://localhost:7089/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 63.5533ms
+2024-04-24 23:47:25.2660 ${level} Request starting HTTP/2 GET https://localhost:7089/swagger/v1/swagger.json - -
+2024-04-24 23:47:25.3707 ${level} Request finished HTTP/2 GET https://localhost:7089/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 104.5892ms
+2024-04-24 23:47:46.8924 ${level} Request starting HTTP/2 GET https://localhost:7089/api/Customer/GetAllCustomers - -
+2024-04-24 23:47:47.4835 ${level} Executing endpoint 'FundooNotesApp1.Controllers.CustomerController.GetAllUsers (FundooNotesApp1)'
+2024-04-24 23:47:47.4988 ${level} Route matched with {action = "GetAllUsers", controller = "Customer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllUsers() on controller FundooNotesApp1.Controllers.CustomerController (FundooNotesApp1).
+2024-04-24 23:47:48.9274 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-24 23:47:50.1880 ${level} Executed DbCommand (43ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [c].[CustomerId], [c].[CustomerAddress], [c].[CustomerCity], [c].[CustomerEmail], [c].[CustomerName], [c].[CustomerPassword], [c].[CustomerPhoneNumber]
+FROM [CustomerTablee] AS [c]
+2024-04-24 23:47:50.3716 ${level} System.Exception: Error Occured
+   at FundooNotesApp1.Controllers.CustomerController.GetAllUsers() in F:\DotNetProgramss\FundooNotesApp1\FundooNotesApp1\Controllers\CustomerController.cs:line 49
+2024-04-24 23:47:50.3771 ${level} Executed action FundooNotesApp1.Controllers.CustomerController.GetAllUsers (FundooNotesApp1) in 2875.0761ms
+2024-04-24 23:47:50.3771 ${level} Executed endpoint 'FundooNotesApp1.Controllers.CustomerController.GetAllUsers (FundooNotesApp1)'
+2024-04-24 23:47:50.3771 ${level} An unhandled exception has occurred while executing the request.
+2024-04-24 23:47:50.4315 ${level} Request finished HTTP/2 GET https://localhost:7089/api/Customer/GetAllCustomers - - - 500 - text/plain;+charset=utf-8 3539.1701ms
+2024-04-24 23:49:01.5731 ${level} User profile is available. Using 'C:\Users\tejab\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-24 23:49:01.9521 ${level} Now listening on: https://localhost:7089
+2024-04-24 23:49:01.9521 ${level} Now listening on: http://localhost:5065
+2024-04-24 23:49:01.9608 ${level} Application started. Press Ctrl+C to shut down.
+2024-04-24 23:49:01.9608 ${level} Hosting environment: Development
+2024-04-24 23:49:01.9608 ${level} Content root path: F:\DotNetProgramss\FundooNotesApp1\FundooNotesApp1\
+2024-04-24 23:49:02.5350 ${level} Request starting HTTP/2 GET https://localhost:7089/swagger/index.html - -
+2024-04-24 23:49:02.7668 ${level} Request finished HTTP/2 GET https://localhost:7089/swagger/index.html - - - 200 - text/html;charset=utf-8 234.9129ms
+2024-04-24 23:49:02.7668 ${level} Request starting HTTP/2 GET https://localhost:7089/_framework/aspnetcore-browser-refresh.js - -
+2024-04-24 23:49:02.7668 ${level} Request starting HTTP/2 GET https://localhost:7089/_vs/browserLink - -
+2024-04-24 23:49:02.7668 ${level} Request finished HTTP/2 GET https://localhost:7089/_framework/aspnetcore-browser-refresh.js - - - 200 13766 application/javascript;+charset=utf-8 2.5320ms
+2024-04-24 23:49:02.8117 ${level} Request finished HTTP/2 GET https://localhost:7089/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 38.1603ms
+2024-04-24 23:49:02.8865 ${level} Request starting HTTP/2 GET https://localhost:7089/swagger/v1/swagger.json - -
+2024-04-24 23:49:03.0149 ${level} Request finished HTTP/2 GET https://localhost:7089/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 128.3801ms
+2024-04-24 23:49:10.7953 ${level} Request starting HTTP/2 GET https://localhost:7089/api/Collaborator/GetAllCollaborators - -
+2024-04-24 23:49:10.9072 ${level} Executing endpoint 'FundooNotesApp1.Controllers.CollaboratorController.GetAllCollaborators (FundooNotesApp1)'
+2024-04-24 23:49:10.9072 ${level} Route matched with {action = "GetAllCollaborators", controller = "Collaborator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllCollaborators() on controller FundooNotesApp1.Controllers.CollaboratorController (FundooNotesApp1).
+2024-04-24 23:49:11.5529 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-24 23:49:11.9750 ${level} Executed DbCommand (22ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [c].[CollaboratorId], [c].[CollaboratorEmail], [c].[NotesId], [c].[UserId]
+FROM [CollaboratorTablee] AS [c]
+2024-04-24 23:49:12.0305 ${level} Executing OkObjectResult, writing value of type 'ModelLayer.ResponseModelLayer`1[[System.Object, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-04-24 23:49:12.0375 ${level} Executed action FundooNotesApp1.Controllers.CollaboratorController.GetAllCollaborators (FundooNotesApp1) in 1121.54ms
+2024-04-24 23:49:12.0375 ${level} Executed endpoint 'FundooNotesApp1.Controllers.CollaboratorController.GetAllCollaborators (FundooNotesApp1)'
+2024-04-24 23:49:12.0375 ${level} Request finished HTTP/2 GET https://localhost:7089/api/Collaborator/GetAllCollaborators - - - 200 - application/json;+charset=utf-8 1247.1744ms
+2024-04-24 23:49:21.5124 ${level} Request starting HTTP/2 GET https://localhost:7089/api/Label/GetAllLabels - -
+2024-04-24 23:49:21.5124 ${level} Executing endpoint 'FundooNotesApp1.Controllers.LabelController.GetAllLabels (FundooNotesApp1)'
+2024-04-24 23:49:21.5124 ${level} Route matched with {action = "GetAllLabels", controller = "Label"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllLabels() on controller FundooNotesApp1.Controllers.LabelController (FundooNotesApp1).
+2024-04-24 23:49:21.5239 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-24 23:49:21.5407 ${level} Executed DbCommand (12ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [l].[LabelId], [l].[LabelName], [l].[NotesId], [l].[UserId]
+FROM [LabelTablee] AS [l]
+2024-04-24 23:49:21.5407 ${level} Executing OkObjectResult, writing value of type 'ModelLayer.ResponseModelLayer`1[[System.Object, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-04-24 23:49:21.5407 ${level} Executed action FundooNotesApp1.Controllers.LabelController.GetAllLabels (FundooNotesApp1) in 34.0587ms
+2024-04-24 23:49:21.5407 ${level} Executed endpoint 'FundooNotesApp1.Controllers.LabelController.GetAllLabels (FundooNotesApp1)'
+2024-04-24 23:49:21.5407 ${level} Request finished HTTP/2 GET https://localhost:7089/api/Label/GetAllLabels - - - 200 - application/json;+charset=utf-8 38.5691ms
+2024-04-24 23:49:35.3464 ${level} Request starting HTTP/2 GET https://localhost:7089/api/Customer/GetAllCustomers - -
+2024-04-24 23:49:35.3464 ${level} Executing endpoint 'FundooNotesApp1.Controllers.CustomerController.GetAllUsers (FundooNotesApp1)'
+2024-04-24 23:49:35.3464 ${level} Route matched with {action = "GetAllUsers", controller = "Customer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllUsers() on controller FundooNotesApp1.Controllers.CustomerController (FundooNotesApp1).
+2024-04-24 23:49:35.4054 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-24 23:49:35.4054 ${level} Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [c].[CustomerId], [c].[CustomerAddress], [c].[CustomerCity], [c].[CustomerEmail], [c].[CustomerName], [c].[CustomerPassword], [c].[CustomerPhoneNumber]
+FROM [CustomerTablee] AS [c]
+2024-04-24 23:49:35.4368 ${level} System.Exception: Error Occured
+   at FundooNotesApp1.Controllers.CustomerController.GetAllUsers() in F:\DotNetProgramss\FundooNotesApp1\FundooNotesApp1\Controllers\CustomerController.cs:line 49
+2024-04-24 23:49:35.4368 ${level} Executed action FundooNotesApp1.Controllers.CustomerController.GetAllUsers (FundooNotesApp1) in 78.3924ms
+2024-04-24 23:49:35.4368 ${level} Executed endpoint 'FundooNotesApp1.Controllers.CustomerController.GetAllUsers (FundooNotesApp1)'
+2024-04-24 23:49:35.4368 ${level} An unhandled exception has occurred while executing the request.
+2024-04-24 23:49:35.5565 ${level} Request finished HTTP/2 GET https://localhost:7089/api/Customer/GetAllCustomers - - - 500 - text/plain;+charset=utf-8 210.0903ms

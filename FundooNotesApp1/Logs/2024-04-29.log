@@ -1,0 +1,125 @@
+2024-04-29 15:03:39.2972 ${level} User profile is available. Using 'C:\Users\tejab\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-29 15:03:39.6293 ${level} Now listening on: https://localhost:7089
+2024-04-29 15:03:39.6293 ${level} Now listening on: http://localhost:5065
+2024-04-29 15:03:39.6312 ${level} Application started. Press Ctrl+C to shut down.
+2024-04-29 15:03:39.6312 ${level} Hosting environment: Development
+2024-04-29 15:03:39.6312 ${level} Content root path: F:\DotNetProgramss\FundooNotesApp1\FundooNotesApp1\
+2024-04-29 15:03:40.8156 ${level} Request starting HTTP/2 GET https://localhost:7089/swagger/index.html - -
+2024-04-29 15:03:41.0962 ${level} Request finished HTTP/2 GET https://localhost:7089/swagger/index.html - - - 200 - text/html;charset=utf-8 280.8047ms
+2024-04-29 15:03:41.1123 ${level} Request starting HTTP/2 GET https://localhost:7089/_vs/browserLink - -
+2024-04-29 15:03:41.1123 ${level} Request starting HTTP/2 GET https://localhost:7089/_framework/aspnetcore-browser-refresh.js - -
+2024-04-29 15:03:41.1123 ${level} Request finished HTTP/2 GET https://localhost:7089/_framework/aspnetcore-browser-refresh.js - - - 200 13766 application/javascript;+charset=utf-8 3.8548ms
+2024-04-29 15:03:41.1539 ${level} Request finished HTTP/2 GET https://localhost:7089/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 41.6468ms
+2024-04-29 15:03:41.2045 ${level} Request starting HTTP/2 GET https://localhost:7089/swagger/v1/swagger.json - -
+2024-04-29 15:03:41.2809 ${level} An unhandled exception has occurred while executing the request.
+2024-04-29 15:03:41.3495 ${level} Request finished HTTP/2 GET https://localhost:7089/swagger/v1/swagger.json - - - 500 - text/plain;+charset=utf-8 144.9187ms
+2024-04-29 15:04:57.4352 ${level} User profile is available. Using 'C:\Users\tejab\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-29 15:04:57.7848 ${level} Now listening on: https://localhost:7089
+2024-04-29 15:04:57.7848 ${level} Now listening on: http://localhost:5065
+2024-04-29 15:04:57.7848 ${level} Application started. Press Ctrl+C to shut down.
+2024-04-29 15:04:57.7848 ${level} Hosting environment: Development
+2024-04-29 15:04:57.7848 ${level} Content root path: F:\DotNetProgramss\FundooNotesApp1\FundooNotesApp1\
+2024-04-29 15:04:58.3424 ${level} Request starting HTTP/2 GET https://localhost:7089/swagger/index.html - -
+2024-04-29 15:04:58.5312 ${level} Request finished HTTP/2 GET https://localhost:7089/swagger/index.html - - - 200 - text/html;charset=utf-8 189.4109ms
+2024-04-29 15:04:58.5441 ${level} Request starting HTTP/2 GET https://localhost:7089/_vs/browserLink - -
+2024-04-29 15:04:58.5441 ${level} Request starting HTTP/2 GET https://localhost:7089/_framework/aspnetcore-browser-refresh.js - -
+2024-04-29 15:04:58.5441 ${level} Request finished HTTP/2 GET https://localhost:7089/_framework/aspnetcore-browser-refresh.js - - - 200 13766 application/javascript;+charset=utf-8 3.3004ms
+2024-04-29 15:04:58.5741 ${level} Request finished HTTP/2 GET https://localhost:7089/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 30.0278ms
+2024-04-29 15:04:58.6277 ${level} Request starting HTTP/2 GET https://localhost:7089/swagger/v1/swagger.json - -
+2024-04-29 15:04:58.6996 ${level} An unhandled exception has occurred while executing the request.
+2024-04-29 15:04:58.7146 ${level} Request finished HTTP/2 GET https://localhost:7089/swagger/v1/swagger.json - - - 500 - text/plain;+charset=utf-8 86.8887ms
+2024-04-29 15:06:19.5978 ${level} User profile is available. Using 'C:\Users\tejab\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-29 15:06:19.9780 ${level} Now listening on: https://localhost:7089
+2024-04-29 15:06:19.9780 ${level} Now listening on: http://localhost:5065
+2024-04-29 15:06:19.9780 ${level} Application started. Press Ctrl+C to shut down.
+2024-04-29 15:06:19.9780 ${level} Hosting environment: Development
+2024-04-29 15:06:19.9780 ${level} Content root path: F:\DotNetProgramss\FundooNotesApp1\FundooNotesApp1\
+2024-04-29 15:06:20.1472 ${level} Request starting HTTP/2 GET https://localhost:7089/swagger/index.html - -
+2024-04-29 15:06:20.3055 ${level} Request finished HTTP/2 GET https://localhost:7089/swagger/index.html - - - 200 - text/html;charset=utf-8 158.9750ms
+2024-04-29 15:06:20.3146 ${level} Request starting HTTP/2 GET https://localhost:7089/_framework/aspnetcore-browser-refresh.js - -
+2024-04-29 15:06:20.3146 ${level} Request starting HTTP/2 GET https://localhost:7089/_vs/browserLink - -
+2024-04-29 15:06:20.3146 ${level} Request finished HTTP/2 GET https://localhost:7089/_framework/aspnetcore-browser-refresh.js - - - 200 13766 application/javascript;+charset=utf-8 1.8456ms
+2024-04-29 15:06:20.3393 ${level} Request finished HTTP/2 GET https://localhost:7089/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 24.6688ms
+2024-04-29 15:06:20.3996 ${level} Request starting HTTP/2 GET https://localhost:7089/swagger/v1/swagger.json - -
+2024-04-29 15:06:20.4839 ${level} Request finished HTTP/2 GET https://localhost:7089/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 84.2968ms
+2024-04-29 15:06:38.9688 ${level} User profile is available. Using 'C:\Users\tejab\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-29 15:06:39.2900 ${level} Now listening on: https://localhost:7089
+2024-04-29 15:06:39.2900 ${level} Now listening on: http://localhost:5065
+2024-04-29 15:06:39.2900 ${level} Application started. Press Ctrl+C to shut down.
+2024-04-29 15:06:39.2900 ${level} Hosting environment: Development
+2024-04-29 15:06:39.2900 ${level} Content root path: F:\DotNetProgramss\FundooNotesApp1\FundooNotesApp1\
+2024-04-29 15:06:39.9807 ${level} Request starting HTTP/2 GET https://localhost:7089/swagger/index.html - -
+2024-04-29 15:06:40.2049 ${level} Request finished HTTP/2 GET https://localhost:7089/swagger/index.html - - - 200 - text/html;charset=utf-8 224.3673ms
+2024-04-29 15:06:40.2191 ${level} Request starting HTTP/2 GET https://localhost:7089/_framework/aspnetcore-browser-refresh.js - -
+2024-04-29 15:06:40.2191 ${level} Request starting HTTP/2 GET https://localhost:7089/_vs/browserLink - -
+2024-04-29 15:06:40.2191 ${level} Request finished HTTP/2 GET https://localhost:7089/_framework/aspnetcore-browser-refresh.js - - - 200 13766 application/javascript;+charset=utf-8 4.0504ms
+2024-04-29 15:06:40.2554 ${level} Request finished HTTP/2 GET https://localhost:7089/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 36.0178ms
+2024-04-29 15:06:40.3138 ${level} Request starting HTTP/2 GET https://localhost:7089/swagger/v1/swagger.json - -
+2024-04-29 15:06:40.4122 ${level} Request finished HTTP/2 GET https://localhost:7089/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 98.4434ms
+2024-04-29 15:06:50.2164 ${level} Request starting HTTP/2 GET https://localhost:7089/api/Notes/GetAllNotes - -
+2024-04-29 15:06:50.4019 ${level} Executing endpoint 'FundooNotesApp1.Controllers.NotesController.GetAllNotes (FundooNotesApp1)'
+2024-04-29 15:06:50.4019 ${level} Route matched with {action = "GetAllNotes", controller = "Notes"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllNotes() on controller FundooNotesApp1.Controllers.NotesController (FundooNotesApp1).
+2024-04-29 15:06:51.3737 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-29 15:06:52.0464 ${level} Executed DbCommand (22ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [n].[NotesId], [n].[Archive], [n].[Color], [n].[Created], [n].[Description], [n].[Image], [n].[Modified], [n].[PinNotes], [n].[Reminder], [n].[Title], [n].[Trash], [n].[UserId]
+FROM [NotesTablee] AS [n]
+2024-04-29 15:06:52.1179 ${level} Executing OkObjectResult, writing value of type 'ModelLayer.ResponseModelLayer`1[[System.Object, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-04-29 15:06:52.1179 ${level} Executed action FundooNotesApp1.Controllers.NotesController.GetAllNotes (FundooNotesApp1) in 1713.4149ms
+2024-04-29 15:06:52.1179 ${level} Executed endpoint 'FundooNotesApp1.Controllers.NotesController.GetAllNotes (FundooNotesApp1)'
+2024-04-29 15:06:56.3211 ${level} Error closing the session.
+2024-04-29 15:06:56.3211 ${level} Request finished HTTP/2 GET https://localhost:7089/api/Notes/GetAllNotes - - - 200 - application/json;+charset=utf-8 6110.4073ms
+2024-04-29 15:08:31.4227 ${level} Request starting HTTP/2 GET https://localhost:7089/api/Notes/GetNotesByCretaedDatee?createdDate=2024-04-24%2004%3A14%3A04.5890000 - -
+2024-04-29 15:08:31.4227 ${level} Executing endpoint 'FundooNotesApp1.Controllers.NotesController.GetNotesByCreatedDatee (FundooNotesApp1)'
+2024-04-29 15:08:31.4400 ${level} Route matched with {action = "GetNotesByCreatedDatee", controller = "Notes"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetNotesByCreatedDatee(System.DateTime) on controller FundooNotesApp1.Controllers.NotesController (FundooNotesApp1).
+2024-04-29 15:08:31.4704 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-29 15:08:31.5822 ${level} Executed DbCommand (36ms) [Parameters=[@__CreatedDate_0='?' (DbType = DateTime2)], CommandType='Text', CommandTimeout='30']
+SELECT [n].[NotesId], [n].[Archive], [n].[Color], [n].[Created], [n].[Description], [n].[Image], [n].[Modified], [n].[PinNotes], [n].[Reminder], [n].[Title], [n].[Trash], [n].[UserId]
+FROM [NotesTablee] AS [n]
+WHERE [n].[Created] = @__CreatedDate_0
+2024-04-29 15:08:31.5822 ${level} Executing OkObjectResult, writing value of type 'ModelLayer.ResponseModelLayer`1[[System.Object, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-04-29 15:08:31.5822 ${level} Executed action FundooNotesApp1.Controllers.NotesController.GetNotesByCreatedDatee (FundooNotesApp1) in 145.3715ms
+2024-04-29 15:08:31.5822 ${level} Executed endpoint 'FundooNotesApp1.Controllers.NotesController.GetNotesByCreatedDatee (FundooNotesApp1)'
+2024-04-29 15:08:40.7284 ${level} Error closing the session.
+2024-04-29 15:08:40.7284 ${level} Request finished HTTP/2 GET https://localhost:7089/api/Notes/GetNotesByCretaedDatee?createdDate=2024-04-24%2004%3A14%3A04.5890000 - - - 200 - application/json;+charset=utf-8 9306.6134ms
+2024-04-29 15:11:05.3262 ${level} User profile is available. Using 'C:\Users\tejab\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-29 15:11:05.6419 ${level} Now listening on: https://localhost:7089
+2024-04-29 15:11:05.6419 ${level} Now listening on: http://localhost:5065
+2024-04-29 15:11:05.6419 ${level} Application started. Press Ctrl+C to shut down.
+2024-04-29 15:11:05.6419 ${level} Hosting environment: Development
+2024-04-29 15:11:05.6419 ${level} Content root path: F:\DotNetProgramss\FundooNotesApp1\FundooNotesApp1\
+2024-04-29 15:12:32.9729 ${level} User profile is available. Using 'C:\Users\tejab\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-29 15:12:33.9497 ${level} Now listening on: https://localhost:7089
+2024-04-29 15:12:33.9510 ${level} Now listening on: http://localhost:5065
+2024-04-29 15:12:33.9510 ${level} Application started. Press Ctrl+C to shut down.
+2024-04-29 15:12:33.9510 ${level} Hosting environment: Development
+2024-04-29 15:12:33.9510 ${level} Content root path: F:\DotNetProgramss\FundooNotesApp1\FundooNotesApp1\
+2024-04-29 15:12:34.9949 ${level} Request starting HTTP/2 GET https://localhost:7089/swagger/index.html - -
+2024-04-29 15:12:35.3511 ${level} Request finished HTTP/2 GET https://localhost:7089/swagger/index.html - - - 200 - text/html;charset=utf-8 357.8113ms
+2024-04-29 15:12:35.3511 ${level} Request starting HTTP/2 GET https://localhost:7089/_framework/aspnetcore-browser-refresh.js - -
+2024-04-29 15:12:35.3511 ${level} Request starting HTTP/2 GET https://localhost:7089/_vs/browserLink - -
+2024-04-29 15:12:35.3713 ${level} Request finished HTTP/2 GET https://localhost:7089/_framework/aspnetcore-browser-refresh.js - - - 200 13766 application/javascript;+charset=utf-8 14.1985ms
+2024-04-29 15:12:35.4197 ${level} Request finished HTTP/2 GET https://localhost:7089/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 62.5941ms
+2024-04-29 15:12:35.4602 ${level} Request starting HTTP/2 GET https://localhost:7089/swagger/v1/swagger.json - -
+2024-04-29 15:12:35.6309 ${level} Request finished HTTP/2 GET https://localhost:7089/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 170.7207ms
+2024-04-29 15:20:12.0046 ${level} User profile is available. Using 'C:\Users\tejab\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-29 15:20:13.0247 ${level} Now listening on: https://localhost:7089
+2024-04-29 15:20:13.0247 ${level} Now listening on: http://localhost:5065
+2024-04-29 15:20:13.0247 ${level} Application started. Press Ctrl+C to shut down.
+2024-04-29 15:20:13.0247 ${level} Hosting environment: Development
+2024-04-29 15:20:13.0247 ${level} Content root path: F:\DotNetProgramss\FundooNotesApp1\FundooNotesApp1\
+2024-04-29 15:20:13.6717 ${level} Request starting HTTP/2 GET https://localhost:7089/swagger/index.html - -
+2024-04-29 15:20:14.0381 ${level} Request finished HTTP/2 GET https://localhost:7089/swagger/index.html - - - 200 - text/html;charset=utf-8 369.3318ms
+2024-04-29 15:20:14.0381 ${level} Request starting HTTP/2 GET https://localhost:7089/_framework/aspnetcore-browser-refresh.js - -
+2024-04-29 15:20:14.0381 ${level} Request starting HTTP/2 GET https://localhost:7089/_vs/browserLink - -
+2024-04-29 15:20:14.0685 ${level} Request finished HTTP/2 GET https://localhost:7089/_framework/aspnetcore-browser-refresh.js - - - 200 13766 application/javascript;+charset=utf-8 19.1214ms
+2024-04-29 15:20:14.1565 ${level} Request finished HTTP/2 GET https://localhost:7089/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 103.9779ms
+2024-04-29 15:20:14.2160 ${level} Request starting HTTP/2 GET https://localhost:7089/swagger/v1/swagger.json - -
+2024-04-29 15:20:14.4824 ${level} Request finished HTTP/2 GET https://localhost:7089/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 266.3995ms
+2024-04-29 15:20:45.3346 ${level} Request starting HTTP/2 GET https://localhost:7089/api/Notes/GetNotesByCretaedDateOnly application/json -
+2024-04-29 15:20:45.9088 ${level} Executing endpoint 'FundooNotesApp1.Controllers.NotesController.GetNotesByCreatedDateOnly (FundooNotesApp1)'
+2024-04-29 15:20:45.9430 ${level} Route matched with {action = "GetNotesByCreatedDateOnly", controller = "Notes"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetNotesByCreatedDateOnly(System.DateOnly) on controller FundooNotesApp1.Controllers.NotesController (FundooNotesApp1).
+2024-04-29 15:20:46.4456 ${level} Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2024-04-29 15:20:46.4456 ${level} Executed action FundooNotesApp1.Controllers.NotesController.GetNotesByCreatedDateOnly (FundooNotesApp1) in 506.9875ms
+2024-04-29 15:20:46.4456 ${level} Executed endpoint 'FundooNotesApp1.Controllers.NotesController.GetNotesByCreatedDateOnly (FundooNotesApp1)'
+2024-04-29 15:20:50.8030 ${level} Error closing the session.
+2024-04-29 15:20:50.8086 ${level} Request finished HTTP/2 GET https://localhost:7089/api/Notes/GetNotesByCretaedDateOnly application/json - - 400 - application/problem+json;+charset=utf-8 5474.0471ms
